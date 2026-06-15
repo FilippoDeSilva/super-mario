@@ -1,6 +1,6 @@
 # 🎮 Pixel Plumber — A Super Mario-Style Platformer
 
-> **Built with Next.js 14 + Phaser 3 + TypeScript + TailwindCSS**
+> **Built with Next.js 16 + Phaser 3 + TypeScript + TailwindCSS**
 
 A fully playable browser-based side-scrolling platformer inspired by classic Mario gameplay. Zero external asset files — all graphics are generated procedurally at boot time using Phaser's graphics API.
 
